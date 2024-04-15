@@ -1,0 +1,5 @@
+Activity,start_time,end_time,# of product in WIP,# of product in WT
+Down Time (min),00:00.0,03:52.3,0,1
+Productive Time (min),03:52.4,06:45.5,1,1
+Down Time (min),06:45.6,08:40.6,0,1
+Productive Time (min),08:40.7,09:07.6,1,1
